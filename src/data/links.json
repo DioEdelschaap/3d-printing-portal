@@ -1,0 +1,160 @@
+[
+  {
+    "category": "fabrikanten",
+    "title": "Fabrikanten",
+    "icon": "https://img.icons8.com/ios-filled/100/ffffff/3d-printer--v1.png",
+    "links": [
+      {
+        "name": "Bambu Lab",
+        "url": "https://www.bambulab.com"
+      },
+      {
+        "name": "Prusa",
+        "url": "https://www.prusa3d.com"
+      },
+      {
+        "name": "Creality",
+        "url": "https://www.creality.com"
+      },
+      {
+        "name": "Anycubic",
+        "url": "https://www.anycubic.com"
+      }
+    ]
+  },
+  {
+    "category": "modellen",
+    "title": "3D Modellen",
+    "icon": "https://img.icons8.com/ios-filled/100/ffffff/design.png",
+    "links": [
+      {
+        "name": "MakerWorld",
+        "url": "https://makerworld.com/en"
+      },
+      {
+        "name": "Thingiverse",
+        "url": "https://www.thingiverse.com"
+      },
+      {
+        "name": "Printables",
+        "url": "https://www.printables.com"
+      },
+      {
+        "name": "MyMiniFactory",
+        "url": "https://www.myminifactory.com"
+      },
+      {
+        "name": "Cults3D",
+        "url": "https://www.cults3d.com"
+      },
+      {
+        "name": "3DLabPrint",
+        "url": "https://3dlabprint.com/"
+      },
+      {
+        "name": "Thangs",
+        "url": "https://thangs.com/"
+      }
+    ]
+  },
+  {
+    "category": "software",
+    "title": "3D Software",
+    "icon": "https://img.icons8.com/ios-filled/100/ffffff/code.png",
+    "links": [
+      {
+        "name": "Fusion 360",
+        "url": "https://www.autodesk.com/products/fusion-360"
+      },
+      {
+        "name": "Blender",
+        "url": "https://www.blender.org"
+      },
+      {
+        "name": "Tinkercad",
+        "url": "https://www.tinkercad.com"
+      },
+      {
+        "name": "Sketchup",
+        "url": "https://app.sketchup.com/app"
+      },
+      {
+        "name": "OpenSCAD",
+        "url": "https://openscad.org/"
+      },
+      {
+        "name": "FreeCAD",
+        "url": "https://www.freecad.org/"
+      }
+    ]
+  },
+  {
+    "category": "filament",
+    "title": "Filament",
+    "icon": "https://img.icons8.com/ios-filled/100/ffffff/plastic.png",
+    "links": [
+      {
+        "name": "Filament (bambulab)",
+        "url": "https://eu.store.bambulab.com/nl-nl/collections/bambu-lab-3d-printer-filament"
+      },
+      {
+        "name": "Premium Filament (TM3)",
+        "url": "https://tm3dfilament.nl/"
+      },
+      {
+        "name": "3D Filament Shop",
+        "url": "https://www.3dfilamentshop.nl/"
+      },
+      {
+        "name": "Filament (eSun)",
+        "url": "https://esun3dstoreeu.com/"
+      }
+    ]
+  },
+  {
+    "category": "afwerking",
+    "title": "Verf & Afwerking",
+    "icon": "https://img.icons8.com/ios-filled/100/ffffff/paint-palette.png",
+    "links": [
+      {
+        "name": "Molotow (verfstiften)",
+        "url": "https://brand.molotow.com/en/"
+      },
+      {
+        "name": "Modelbouwenzo",
+        "url": "https://www.modelbouwenzo.nl/"
+      },
+      {
+        "name": "Sceneryworkshop",
+        "url": "https://www.sceneryworkshop.nl/nl/"
+      },
+      {
+        "name": "Stardustcolors",
+        "url": "https://www.stardustcolors.nl/"
+      }
+    ]
+  },
+  {
+    "category": "accessoires",
+    "title": "Accessoires",
+    "icon": "https://img.icons8.com/ios-filled/100/ffffff/settings.png",
+    "links": [
+      {
+        "name": "Nozzles",
+        "url": "https://www.3djake.nl/nozzles"
+      },
+      {
+        "name": "Build Plates",
+        "url": "https://www.3djake.nl/buildplates"
+      },
+      {
+        "name": "Reiniging",
+        "url": "https://www.3djake.nl/reiniging"
+      },
+      {
+        "name": "Upgrades",
+        "url": "https://www.3djake.nl/upgrades"
+      }
+    ]
+  }
+]

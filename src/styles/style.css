@@ -1,0 +1,75 @@
+/* =======================
+   Algemene instellingen
+========================== */
+
+html {
+  scroll-behavior: smooth;
+}
+
+/* =======================
+   Layout
+========================== */
+
+body {
+    margin: 0;
+    font-family: 'Segoe UI', sans-serif;
+    background-color: #1a1a1a;
+    color: #f0f0f0;
+  }
+  
+  header {
+    text-align: center;
+    padding: 50px 20px;
+    background: linear-gradient(to right, #ff416c, #ff4b2b);
+    color: white;
+    text-shadow: 2px 2px 5px #000;
+  }
+  
+  h1 {
+    font-size: 4em;
+    font-weight: bold;
+    transform: perspective(400px) rotateX(10deg);
+    letter-spacing: 2px;
+  }
+  
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 30px;
+    padding: 40px;
+    max-width: 1200px;
+    margin: auto;
+  }
+  
+  .category {
+    background-color: #2a2a2a;
+    border-radius: 12px;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+  }
+  
+  .category img {
+    width: 60px;
+    height: 60px;
+    object-fit: contain;
+    margin-bottom: 15px;
+  }
+  
+  .category h2 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+  }
+  
+  .category a {
+    display: block;
+    color: #ffa500;
+    text-decoration: none;
+    margin: 5px 0;
+    transition: 0.2s;
+  }
+  
+  .category a:hover {
+    text-decoration: underline;
+  }
+  
