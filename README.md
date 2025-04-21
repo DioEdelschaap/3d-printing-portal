@@ -1,13 +1,13 @@
-# 3D Printing Portal
+# 3D Print Portal
 
-Welkom bij de **3D Printing Portal** – een dynamisch en gebruiksvriendelijk overzicht van alles wat met 3D-printen te maken heeft.
+Welkom bij de **3D Print Portal** – een dynamisch en gebruiksvriendelijk overzicht van alles wat met 3D-printen te maken heeft.
 
 ## 🔗 Live bekijken
-👉 [Bekijk de website](https://dioedelschaap.github.io/3d-printing-portal/)
+👉 [Bekijk de website](https://dioedelschaap.github.io/3d-print-portal/)
 
 ## 📁 Projectstructuur
 ```
-3d-printing-portal/
+3d-print-portal/
 ├── index.html
 ├── styles/
 │   └── style.css
@@ -33,7 +33,7 @@ Je kunt via het formulier op de site direct tips of aanvullingen insturen. E-mai
 ## 📦 Zelf lokaal draaien
 1. Clone deze repo:
    ```bash
-   git clone https://github.com/dioedelschaap/3d-printing-portal.git
+   git clone https://github.com/dioedelschaap/3d-print-portal.git
    ```
 2. Start een lokale server, bijvoorbeeld met Live Server (VS Code) of:
    ```bash
