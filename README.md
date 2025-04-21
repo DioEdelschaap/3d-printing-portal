@@ -1,21 +1,53 @@
 # 3D Printing Portal
 
-Welcome to the 3D Printing Portal project! This project is dedicated to sharing valuable resources, tutorials, and links related to the hobby of 3D printing.
+Welkom bij de **3D Printing Portal** – een dynamisch en gebruiksvriendelijk overzicht van alles wat met 3D-printen te maken heeft.
 
-## Purpose
+## 🔗 Live bekijken
+👉 [Bekijk de website](https://dioedelschaap.github.io/3d-printing-portal/)
 
-The purpose of this project is to curate a collection of links that can help enthusiasts, beginners, and experts alike in their 3D printing journey. Whether you're looking for design files, printing tips, or community forums, you'll find useful links here.
+## 📁 Projectstructuur
+```
+3d-printing-portal/
+├── index.html
+├── styles/
+│   └── style.css
+├── scripts/
+│   ├── main.js
+│   └── form-handler.js
+├── data/
+│   └── links.json
+├── favicon.png
+```
 
-## How to Use
+## ✨ Functionaliteiten
+- Dynamisch laden van categorieën en links via JSON
+- Automatisch gegenereerde en alfabetisch gesorteerde filterdropdown
+- Zoekfunctie + resetknop
+- Responsive design met Tailwind CSS
+- Werkend contactformulier via Formspree met spamfilter (honeypot)
+- Volledig statisch gehost op GitHub Pages
 
-1. Open the `src/index.html` file in your web browser to view the main page.
-2. Explore the links provided to discover resources that can enhance your 3D printing experience.
-3. Feel free to contribute by adding more links or resources to the project.
+## 📬 Tip insturen
+Je kunt via het formulier op de site direct tips of aanvullingen insturen. E-mailadres is optioneel.
 
-## Contributing
+## 📦 Zelf lokaal draaien
+1. Clone deze repo:
+   ```bash
+   git clone https://github.com/dioedelschaap/3d-printing-portal.git
+   ```
+2. Start een lokale server, bijvoorbeeld met Live Server (VS Code) of:
+   ```bash
+   python -m http.server
+   ```
+3. Open `http://localhost:8000` in je browser
 
-If you would like to contribute to this project, please fork the repository and submit a pull request with your additions. 
+## ✅ Deployen via GitHub Pages
+- Zet de bestanden in de root van je repo
+- Activeer GitHub Pages via **Settings > Pages > Source: main / root**
+- Je site komt online op: `https://<gebruikersnaam>.github.io/<repo>`
 
-## License
+---
 
-This project is open-source and available for anyone to use and modify. Enjoy your 3D printing journey!
+💬 Feedback of verbeterideeën? Insturen via het formulier of open een issue!
+
+🛠️ Gemaakt met liefde door en voor makers.
