@@ -141,19 +141,19 @@
     "links": [
       {
         "name": "Nozzles",
-        "url": "https://www.3djake.nl/nozzles"
+        "url": "https://3dprinters-store.com/collections/3d-printer-nozzles"
       },
       {
         "name": "Build Plates",
-        "url": "https://www.3djake.nl/buildplates"
+        "url": "https://www.amazon.nl/3d-build-plate/s?k=3d+build+plate"
       },
       {
         "name": "Reiniging",
-        "url": "https://www.3djake.nl/reiniging"
+        "url": "https://www.3djake.nl/accesoires-voor-3d-printers/reiniging"
       },
       {
-        "name": "Upgrades",
-        "url": "https://www.3djake.nl/upgrades"
+        "name": "Upgrades & Spare Parts",
+        "url": "https://www.3djake.com/spare-parts-upgrades"
       }
     ]
   },
@@ -164,7 +164,8 @@
     "links": [
       { "name": "All3DP Learn", "url": "https://all3dp.com/learn/" },
       { "name": "RepRap Wiki", "url": "https://reprap.org/wiki/Main_Page" },
-      { "name": "3D Printing Handbook (Prusa)", "url": "https://help.prusa3d.com/article/original-prusa-3d-printer-handbooks_2287" }
+      { "name": "3D Printing Handbook (Prusa)", "url": "https://help.prusa3d.com/article/original-prusa-3d-printer-handbooks_2287" },
+      { "name": "Bambu Lab Wiki", "url": "https://wiki.bambulab.com/en/home" }
     ]
   },
   {
@@ -174,17 +175,8 @@
     "links": [
       { "name": "3DJake", "url": "https://www.3djake.nl" },
       { "name": "MatterHackers", "url": "https://www.matterhackers.com" },
-      { "name": "Fabrik3D", "url": "https://fabrik3d.nl" }
-    ]
-  },
-  {
-    "category": "community",
-    "title": "Community & Forums",
-    "icon": "https://img.icons8.com/ios-filled/100/ffffff/community.png",
-    "links": [
-      { "name": "Reddit", "url": "https://www.reddit.com/r/3Dprinting/" },
-      { "name": "Facebook", "url": "https://www.facebook.com/groups/3dprintcommunity" },
-      { "name": "Discord", "url": "https://discord.gg/3dprinting" }
+      { "name": "Fabrik3D", "url": "https://fabrik3d.nl" },
+      { "name": "123-3D", "url": "https://www.123-3d.nl/" }
     ]
   },
   {
@@ -196,15 +188,14 @@
       { "name": "3DPrint.com", "url": "https://3dprint.com/" },
       { "name": "All3DP", "url": "https://all3dp.com/" }
     ]
-  },
+  },  
   {
     "category": "video",
     "title": "YouTube & Video",
     "icon": "https://img.icons8.com/ios-filled/100/ffffff/youtube-play.png",
     "links": [
       { "name": "YouTube", "url": "https://www.youtube.com" },
-      { "name": "Maker's Muse", "url": "https://www.youtube.com/user/MakersMuse" },
-      { "name": "3D Printing Nerd", "url": "https://www.youtube.com/user/3DPrintingNerd" }
+      { "name": "YouTube (Shop Nation)", "url": "https://www.youtube.com/@ShopNation" }
     ]
   }
 ]
