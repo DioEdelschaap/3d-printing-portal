@@ -156,7 +156,7 @@
         "url": "https://www.3djake.nl/upgrades"
       }
     ]
-  }
+  },
   {
     "category": "kennis",
     "title": "Handleidingen & Wiki's",
@@ -176,7 +176,7 @@
       { "name": "MatterHackers", "url": "https://www.matterhackers.com" },
       { "name": "Fabrik3D", "url": "https://fabrik3d.nl" }
     ]
-  }
+  },
   {
     "category": "community",
     "title": "Community & Forums",
@@ -186,7 +186,7 @@
       { "name": "Facebook", "url": "https://www.facebook.com/groups/3dprintcommunity" },
       { "name": "Discord", "url": "https://discord.gg/3dprinting" }
     ]
-  }
+  },
   {
     "category": "nieuws",
     "title": "Nieuws & Blogs",
@@ -196,7 +196,7 @@
       { "name": "3DPrint.com", "url": "https://3dprint.com/" },
       { "name": "All3DP", "url": "https://all3dp.com/" }
     ]
-  }
+  },
   {
     "category": "video",
     "title": "YouTube & Video",
