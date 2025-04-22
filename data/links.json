@@ -157,4 +157,54 @@
       }
     ]
   }
+  {
+    "category": "kennis",
+    "title": "Handleidingen & Wiki's",
+    "icon": "https://img.icons8.com/ios-filled/100/ffffff/book.png",
+    "links": [
+      { "name": "All3DP Learn", "url": "https://all3dp.com/learn/" },
+      { "name": "RepRap Wiki", "url": "https://reprap.org/wiki/Main_Page" },
+      { "name": "3D Printing Handbook (Prusa)", "url": "https://help.prusa3d.com/article/original-prusa-3d-printer-handbooks_2287" }
+    ]
+  },
+  {
+    "category": "winkels",
+    "title": "Winkels & Webshops",
+    "icon": "https://img.icons8.com/ios-filled/100/ffffff/shopping-cart.png",
+    "links": [
+      { "name": "3DJake", "url": "https://www.3djake.nl" },
+      { "name": "MatterHackers", "url": "https://www.matterhackers.com" },
+      { "name": "Fabrik3D", "url": "https://fabrik3d.nl" }
+    ]
+  }
+  {
+    "category": "community",
+    "title": "Community & Forums",
+    "icon": "https://img.icons8.com/ios-filled/100/ffffff/community.png",
+    "links": [
+      { "name": "Reddit", "url": "https://www.reddit.com/r/3Dprinting/" },
+      { "name": "Facebook", "url": "https://www.facebook.com/groups/3dprintcommunity" },
+      { "name": "Discord", "url": "https://discord.gg/3dprinting" }
+    ]
+  }
+  {
+    "category": "nieuws",
+    "title": "Nieuws & Blogs",
+    "icon": "https://img.icons8.com/ios-filled/100/ffffff/news.png",
+    "links": [
+      { "name": "3D Printing Industry", "url": "https://3dprintingindustry.com/" },
+      { "name": "3DPrint.com", "url": "https://3dprint.com/" },
+      { "name": "All3DP", "url": "https://all3dp.com/" }
+    ]
+  }
+  {
+    "category": "video",
+    "title": "YouTube & Video",
+    "icon": "https://img.icons8.com/ios-filled/100/ffffff/youtube-play.png",
+    "links": [
+      { "name": "YouTube", "url": "https://www.youtube.com" },
+      { "name": "Maker's Muse", "url": "https://www.youtube.com/user/MakersMuse" },
+      { "name": "3D Printing Nerd", "url": "https://www.youtube.com/user/3DPrintingNerd" }
+    ]
+  }
 ]

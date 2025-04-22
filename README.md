@@ -3,11 +3,13 @@
 Welkom bij de **3D Print Portal** – een dynamisch en gebruiksvriendelijk overzicht van alles wat met 3D-printen te maken heeft.
 
 ## 🔗 Live bekijken
-👉 [Bekijk de website](https://dioedelschaap.github.io/3d-print-portal/)
+
+👉 [Bekijk de website](https://www.3dprintportal.nl)
 
 ## 📁 Projectstructuur
+
 ```
-3d-print-portal/
+3dprintportal/
 ├── index.html
 ├── styles/
 │   └── style.css
@@ -20,6 +22,7 @@ Welkom bij de **3D Print Portal** – een dynamisch en gebruiksvriendelijk overz
 ```
 
 ## ✨ Functionaliteiten
+
 - Dynamisch laden van categorieën en links via JSON
 - Automatisch gegenereerde en alfabetisch gesorteerde filterdropdown
 - Zoekfunctie + resetknop
@@ -28,12 +31,14 @@ Welkom bij de **3D Print Portal** – een dynamisch en gebruiksvriendelijk overz
 - Volledig statisch gehost op GitHub Pages
 
 ## 📬 Tip insturen
-Je kunt via het formulier op de site direct tips of aanvullingen insturen. E-mailadres is optioneel.
+
+Je kunt via het formulier op de site direct tips of aanvullingen insturen – zoals handige handleidingen, wiki's of winkels/webshops die relevant zijn voor 3D-printen. E-mailadres is optioneel.
 
 ## 📦 Zelf lokaal draaien
+
 1. Clone deze repo:
    ```bash
-   git clone https://github.com/dioedelschaap/3d-print-portal.git
+   git clone https://github.com/dioedelschaap/3dprintportal.git
    ```
 2. Start een lokale server, bijvoorbeeld met Live Server (VS Code) of:
    ```bash
@@ -42,12 +47,14 @@ Je kunt via het formulier op de site direct tips of aanvullingen insturen. E-mai
 3. Open `http://localhost:8000` in je browser
 
 ## ✅ Deployen via GitHub Pages
+
 - Zet de bestanden in de root van je repo
 - Activeer GitHub Pages via **Settings > Pages > Source: main / root**
-- Je site komt online op: `https://<gebruikersnaam>.github.io/<repo>`
+- Je site komt online op: `https://www.3dprintportal.nl`
 
 ---
 
 💬 Feedback of verbeterideeën? Insturen via het formulier of open een issue!
 
 🛠️ Gemaakt met liefde door en voor makers.
+
